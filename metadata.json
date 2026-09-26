@@ -1,0 +1,6 @@
+{
+  "name": "CS Research Agent - Architecture & Student Projects",
+  "description": "Token-efficient CS research agent that extracts core breakthroughs, generates Mermaid.js architectural flowcharts, and formulates 3rd-year CS student resume projects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
